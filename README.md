@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehdihassanjony.
-- 👀 I’m interested in Back-end programming.
+- 👀 I’m interested in Back-end programming with nodejs.
 - 🌱 I’m currently learning GO LANG.
 - 💞️ I’m looking to collaborate on some back-end engineers.
 - 📫 How to reach me shoyshab@gmail.com
